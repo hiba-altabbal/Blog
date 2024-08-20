@@ -17,9 +17,9 @@ Blog mangament system is a simple website that allow you to manage several of po
 
 2. Open XAMPP -> start Apache and MYSQL -> open php my admin and in sql tag you can paste statements to create plog_db and posts table(user="root" , password=""). 
 
-3. put php files in :C:\xampp\htdocs.
+3. create folder (blog) in C:\xampp\htdocs then put php files in it.
 
-4. Open Chrome and paste this in url : http://localhost/index.php
+4. Open Chrome and paste this in url : http://localhost/blog/index.php
 
 
 
